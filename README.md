@@ -1,4 +1,8 @@
 # musicapp
+![image](https://user-images.githubusercontent.com/42339998/146631689-887c9ec5-9e83-4856-a7b8-3a0e17db9ea5.png)
+![image](https://user-images.githubusercontent.com/42339998/146631697-14fe4e11-eb2c-4ac7-bd99-a04c17a1245c.png)
+![image](https://user-images.githubusercontent.com/42339998/146631718-47b4ff18-ced9-4127-9660-495d17a63be8.png)
+
 使用网易云node.js接口 bibooo音乐 迟点我会在gitte配置静态浏览器展示
 做这个还是有很多问题 包括现在还是有很多功能没有实现等等
 子传父 父传子 vuex 路由传值还是练习到了积累了很多目前就是对于像登录注册保持状态有点不熟悉 这个项目有个点是登录之后才能请求一个接口返回网易云 ‘我喜欢的音乐’的数据 不知道怎么拿
